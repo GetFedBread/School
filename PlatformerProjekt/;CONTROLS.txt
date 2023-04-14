@@ -1,0 +1,11 @@
+MOVE LEFT = A
+MOVE RIGHT = D
+JUMP = SPACE
+
+***HOW TO HOLD ONTO WALL***
+Hold the key that points towards the wall that you wish to hold on to
+The player will now slide down the wall, resulting in a slower fall
+
+***HOW TO WALLJUMP***
+First hold onto the wall that you wish to jump off
+Now press space to jump
