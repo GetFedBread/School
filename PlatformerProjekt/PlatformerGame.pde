@@ -52,7 +52,7 @@ class PlatformerGame {
       if(level<totalLevels) {
         level++;
       }else {
-        level = 1;
+        level = 3;
       }
       if(player.health<totalLevels) {
         player.health++;
